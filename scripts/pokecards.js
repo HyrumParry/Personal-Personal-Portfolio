@@ -25,7 +25,7 @@ function cardFront(pokeData) {
 function cardBackInfo(pokeData) {
     let infoDiv = document.createElement('div')
     infoDiv.className = 'infoDiv'
-    let types = document.createElement('h1')
+    let typesOne = document.createElement('h1')
     let moveOne = document.createElement('p')
     let moveTwo = document.createElement('p')
     let moveThree = document.createElement('p')
@@ -34,8 +34,8 @@ function cardBackInfo(pokeData) {
     moveTwo.textContent = pokeData.moves[1].move.name
     moveThree.textContent = pokeData.moves[2].move.name
     moveFour.textContent = pokeData.moves[3].move.name
-    types.textContent = pokeData.types[0].type.name
-    infoDiv.appendChild(types)
+    typesOne.textContent = pokeData.types[0].type.name
+    infoDiv.appendChild(typesOne)
     infoDiv.appendChild(moveOne)
     infoDiv.appendChild(moveTwo)
     infoDiv.appendChild(moveThree)
