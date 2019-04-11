@@ -106,10 +106,38 @@
         },
         {
           name: 'charizard',
-          url : 'http://pokeapi.co/api/v2/pokemon/006/',
+          url : 'http://pokeapi.co/api/v2/pokemon/6/',
         },
         {
-          name: 'feraligatr',
-          url: 'https://pokeapi.co/api/v2/pokemon/160/',
+          name: 'tyranitar',
+          url : 'http://pokeapi.co/api/v2/pokemon/248/',
+        },
+        {
+          name: 'lugia',
+          url : 'http://pokeapi.co/api/v2/pokemon/249/',
+        },
+        {
+          name: 'salamence',
+          url : 'http://pokeapi.co/api/v2/pokemon/373/',
+        },
+        {
+          name: 'charizard',
+          url : 'http://pokeapi.co/api/v2/pokemon/6/',
+        },
+        {
+          name: 'mudkip',
+          url : 'http://pokeapi.co/api/v2/pokemon/258/',
+        },
+        {
+          name: 'kyogre',
+          url : 'http://pokeapi.co/api/v2/pokemon/382/',
+        },
+        {
+          name: 'groudon',
+          url : 'http://pokeapi.co/api/v2/pokemon/383/',
+        },
+        {
+          name: 'rayquaza',
+          url : 'http://pokeapi.co/api/v2/pokemon/384/',
         },
       ]
