@@ -121,8 +121,8 @@
           url : 'http://pokeapi.co/api/v2/pokemon/373/',
         },
         {
-          name: 'charizard',
-          url : 'http://pokeapi.co/api/v2/pokemon/6/',
+          name: 'porygon2',
+          url : 'http://pokeapi.co/api/v2/pokemon/233/',
         },
         {
           name: 'mudkip',
@@ -139,5 +139,9 @@
         {
           name: 'rayquaza',
           url : 'http://pokeapi.co/api/v2/pokemon/384/',
+        },
+        {
+          name: 'arceus',
+          url : 'http://pokeapi.co/api/v2/pokemon/493/',
         },
       ]
