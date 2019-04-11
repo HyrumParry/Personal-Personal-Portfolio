@@ -25,6 +25,7 @@ function cardFront(pokeData) {
 function cardBackInfo(pokeData) {
     let infoDiv = document.createElement('div')
     infoDiv.className = 'infoDiv'
+    let types = document.createElement('h1')
     let moveOne = document.createElement('p')
     let moveTwo = document.createElement('p')
     let moveThree = document.createElement('p')
@@ -33,6 +34,8 @@ function cardBackInfo(pokeData) {
     moveTwo.textContent = pokeData.moves[1].move.name
     moveThree.textContent = pokeData.moves[2].move.name
     moveFour.textContent = pokeData.moves[3].move.name
+    types.textContent = pokeData.types[0].type.name
+    infoDiv.appendChild(types)
     infoDiv.appendChild(moveOne)
     infoDiv.appendChild(moveTwo)
     infoDiv.appendChild(moveThree)
@@ -115,7 +118,7 @@ class Pokemon {
 const newPokemonButton = document.querySelector('button')
 
 newPokemonButton.addEventListener('click', function() {
-    createPokeCard(matchIdToImage(new Pokemon('Thoremon')))
+    createPokeCard(matchIdToImage(new Pokemon('Hyrumon')))
     // let pokemonID = prompt('Enter an ID of an existing pokemon:')
     // fetchSinglePokemon(pokemonID)
   });
