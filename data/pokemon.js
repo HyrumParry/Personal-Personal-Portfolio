@@ -103,5 +103,13 @@
         {
           name: 'togepi',
           url : 'http://pokeapi.co/api/v2/pokemon/175/',
-			  },
+        },
+        {
+          name: 'charizard',
+          url : 'http://pokeapi.co/api/v2/pokemon/006/',
+        },
+        {
+          name: 'feraligatr',
+          url: 'https://pokeapi.co/api/v2/pokemon/160/',
+        },
       ]
