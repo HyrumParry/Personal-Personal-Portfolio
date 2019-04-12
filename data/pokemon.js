@@ -53,10 +53,6 @@
           url: 'https://pokeapi.co/api/v2/pokemon/162/',
         },
         {
-          name: 'hoothoot',
-          url: 'https://pokeapi.co/api/v2/pokemon/163/',
-        },
-        {
           name: 'nidoking',
           url: 'https://pokeapi.co/api/v2/pokemon/34/',
         },
