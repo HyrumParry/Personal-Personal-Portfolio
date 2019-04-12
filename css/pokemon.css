@@ -56,11 +56,12 @@ main {
   }
   
   button {
-    width: 300px;
-    height: 80px;
+    width: 800px;
+    height: 90px;
     font-size: 1.5rem;
-    background-color: #a86d4f;
-    color: blue;
+    background-color: #43395e;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
   }
   
   img {
@@ -77,4 +78,13 @@ main {
   
   .infoDiv {
       position: relative;
+  }
+
+  h1 {
+    color: red;
+    font-size: 250%;
+  }
+
+  h2 {
+    color: navy;
   }
