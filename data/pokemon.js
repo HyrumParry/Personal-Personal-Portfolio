@@ -57,8 +57,8 @@
           url: 'https://pokeapi.co/api/v2/pokemon/163/',
         },
         {
-          name: 'noctowl',
-          url: 'https://pokeapi.co/api/v2/pokemon/164/',
+          name: 'nidoking',
+          url: 'https://pokeapi.co/api/v2/pokemon/34/',
         },
         {
           name: 'ledyba',
@@ -77,8 +77,8 @@
           url: 'https://pokeapi.co/api/v2/pokemon/168/',
         },
         {
-          name: 'crobat',
-          url: 'https://pokeapi.co/api/v2/pokemon/169/',
+          name: 'arcanine',
+          url: 'https://pokeapi.co/api/v2/pokemon/59/',
         },
         {
           name: 'chinchou',
