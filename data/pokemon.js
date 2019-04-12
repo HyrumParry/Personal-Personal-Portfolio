@@ -61,46 +61,6 @@
           url: 'https://pokeapi.co/api/v2/pokemon/34/',
         },
         {
-          name: 'ledyba',
-          url: 'https://pokeapi.co/api/v2/pokemon/165/',
-        },
-        {
-          name: 'ledian',
-          url: 'https://pokeapi.co/api/v2/pokemon/166/',
-        },
-        {
-          name: 'spinarak',
-          url: 'https://pokeapi.co/api/v2/pokemon/167/',
-        },
-        {
-          name: 'ariados',
-          url: 'https://pokeapi.co/api/v2/pokemon/168/',
-        },
-        {
-          name: 'arcanine',
-          url: 'https://pokeapi.co/api/v2/pokemon/59/',
-        },
-        {
-          name: 'chinchou',
-          url: 'https://pokeapi.co/api/v2/pokemon/170/',
-        },
-        {
-          name: 'lanturn',
-          url: 'https://pokeapi.co/api/v2/pokemon/171/',
-        },
-        {
-          name: 'pichu',
-          url: 'https://pokeapi.co/api/v2/pokemon/172/',
-        },
-        {
-          name: 'cleffa',
-          url: 'https://pokeapi.co/api/v2/pokemon/173/',
-        },
-        {
-          name: 'igglybuff',
-          url: 'https://pokeapi.co/api/v2/pokemon/174/',
-        },
-        {
           name: 'togepi',
           url : 'http://pokeapi.co/api/v2/pokemon/175/',
         },
@@ -144,4 +104,45 @@
           name: 'arceus',
           url : 'http://pokeapi.co/api/v2/pokemon/493/',
         },
+        {
+          name: 'ledyba',
+          url: 'https://pokeapi.co/api/v2/pokemon/165/',
+        },
+        {
+          name: 'ledian',
+          url: 'https://pokeapi.co/api/v2/pokemon/166/',
+        },
+        {
+          name: 'spinarak',
+          url: 'https://pokeapi.co/api/v2/pokemon/167/',
+        },
+        {
+          name: 'ariados',
+          url: 'https://pokeapi.co/api/v2/pokemon/168/',
+        },
+        {
+          name: 'arcanine',
+          url: 'https://pokeapi.co/api/v2/pokemon/59/',
+        },
+        {
+          name: 'chinchou',
+          url: 'https://pokeapi.co/api/v2/pokemon/170/',
+        },
+        {
+          name: 'lanturn',
+          url: 'https://pokeapi.co/api/v2/pokemon/171/',
+        },
+        {
+          name: 'pichu',
+          url: 'https://pokeapi.co/api/v2/pokemon/172/',
+        },
+        {
+          name: 'cleffa',
+          url: 'https://pokeapi.co/api/v2/pokemon/173/',
+        },
+        {
+          name: 'igglybuff',
+          url: 'https://pokeapi.co/api/v2/pokemon/174/',
+        },
+   
       ]
