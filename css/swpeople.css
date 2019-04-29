@@ -9,6 +9,12 @@
 .container div {
     width: 50%;
     height: 50%;
-    margin: 1px;
+    margin: 5px;
+    border-color: blue;
     text-align: center;
 }
+
+h1 {
+    color: red;
+    size: 200%;
+    }
