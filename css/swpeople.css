@@ -7,7 +7,8 @@
 }
 
 .container div {
-    width: 200px;
-    margin: 10px;
+    width: 50%;
+    height: 50%;
+    margin: 1px;
     text-align: center;
 }
