@@ -31,7 +31,7 @@ nav ul {
     position: fixed;
     width: 100%;
     color: whitesmoke;
-    background-color: #C0A27F ;
+    background-color: black;
 }
 
 nav ul li {
@@ -42,20 +42,10 @@ nav ul li {
 
 }
 
-.starwars {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-content: space-between;
-    min-height: 55vh;
-    padding-top: 45vh;
-    background-color: #9CB29E;
-    color: darksalmon;
-}
 
 @media screen and (min-width: 400px) {
     body {
-      background-color: lightgreen;
+      background-color: white;
     }
 
 nav ul li a:hover {
@@ -65,7 +55,7 @@ nav ul li a:hover {
 .work {
     padding-top: 20px;
     margin-top: -60px;
-    background-color: #9CAC88;
+    background-color: #1a3836;
 }
 
 .work .work-header {
