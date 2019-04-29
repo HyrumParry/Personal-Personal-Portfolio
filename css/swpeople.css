@@ -7,14 +7,7 @@
 }
 
 .container div {
-    width: 50%;
-    height: 50%;
-    margin: 5px;
-    border-color: blue;
+    width: 200px;
+    margin: 10px;
     text-align: center;
 }
-
-h1 {
-    color: red;
-    size: 200%;
-    }
