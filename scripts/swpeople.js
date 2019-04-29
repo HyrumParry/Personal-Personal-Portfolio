@@ -1,5 +1,5 @@
 import { people } from '../data/people.js'
-import { planets } from '../data/planets.js'
+
 
 const getLastNumber = (url) => {
     let end = url.lastIndexOf('/')
@@ -20,6 +20,7 @@ const allHomeWorlds = people.map(person => {
         name: person.name,
         home: foundWorld.name,
         eye_color: person.eye_color,
+
         imagePath: `https://starwars-visualguide.com/assets/img/characters/${imageURL}.jpg`,
     }
 })
