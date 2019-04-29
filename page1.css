@@ -1,0 +1,112 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(47, 47, 110);
+}
+
+div{
+    color: #fff;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header img{
+    height: 100px;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+.bio-container{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.bio{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.name-date{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    margin:0px;
+    color: rgb(139, 194, 219);
+}
+
+time{
+    font-size: 1.5rem;
+}
+
+.chose{
+    background-color: rgb(75, 75, 67);
+}
+
+.chose p{
+    color: rgb(106, 172, 172);
+}
+
+.tech{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+figure{
+    display: flex;
+    flex-flow: column;
+    max-width: 200px;
+    margin: 0px;
+}
+
+figcaption{
+    position: relative;
+    bottom: 25px;
+    background-color: rgba(2, 2, 2, .5);
+    color: #fff;
+    padding: 3px;
+    text-align: center;
+}
+
+figure img{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.learn h2{
+    padding-bottom: 20px;
+}
+
+.learn div{
+    background-color: rgb(88, 86, 83);
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+}
+
+.padding{
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+}
+
+
