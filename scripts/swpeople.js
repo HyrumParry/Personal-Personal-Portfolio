@@ -24,11 +24,7 @@ const allHomeWorlds = people.map(person => {
     }
 })
 
-//console.log(allHomeWorlds)
 
-
-
-// https://starwars-visualguide.com/assets/img/characters/1.jpg
 
 const mainContainer = document.createElement('div')
 mainContainer.className = 'container'
